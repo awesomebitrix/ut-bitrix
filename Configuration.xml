@@ -147,7 +147,7 @@
 			<ModalityUseMode>UseWithWarnings</ModalityUseMode>
 			<SynchronousPlatformExtensionAndAddInCallUseMode>Use</SynchronousPlatformExtensionAndAddInCallUseMode>
 			<InterfaceCompatibilityMode>TaxiEnableVersion8_2</InterfaceCompatibilityMode>
-			<CompatibilityMode>Version8_3_8</CompatibilityMode>
+			<CompatibilityMode>Version8_3_10</CompatibilityMode>
 			<DefaultConstantsForm/>
 		</Properties>
 		<ChildObjects>
@@ -3195,6 +3195,7 @@
 			<XDTOPackage>УправлениеРезервнымКопированиемОбластейДанных_1_0_3_1</XDTOPackage>
 			<XDTOPackage>УправлениеТарифамиВМоделиСервиса_1_0_1_1</XDTOPackage>
 			<XDTOPackage>УправлениеТарифамиВМоделиСервиса_1_0_1_2</XDTOPackage>
+			<XDTOPackage>Б_CML3</XDTOPackage>
 			<WebService>CustomerOrdersExchange</WebService>
 			<WebService>EnterpriseDataExchange_1_0_1_1</WebService>
 			<WebService>EnterpriseDataUpload_1_0_1_1</WebService>

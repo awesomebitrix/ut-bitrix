@@ -1384,7 +1384,6 @@
 			<Form>ОбщиеНастройки</Form>
 			<Form>ПечатьЧекаДляИнтернетМагазина</Form>
 			<Template>ОтчетПоНоменклатуреДерева</Template>
-			<Template>СхемаXSDОбмена</Template>
 			<Template>СхемаВыгрузкиДисконтныхКарт</Template>
 			<Template>СхемаВыгрузкиОтгрузок</Template>
 			<Template>СхемаВыгрузкиЗаказов</Template>
